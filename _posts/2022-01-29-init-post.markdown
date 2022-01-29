@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Inital post"
+date:   2022-01-29 13:52:07 +0100
+categories: init
+---
+This is the first post on this blog. Merely a test project at the time.
+
+{% highlight java %}
+
+System.out.printnl("Hello world");
+
+{% endhighlight %}
