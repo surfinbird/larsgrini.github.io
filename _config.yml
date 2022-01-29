@@ -30,7 +30,7 @@ github_username:  surfinbird
 instagram_username: hashtaglars
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
 # theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
